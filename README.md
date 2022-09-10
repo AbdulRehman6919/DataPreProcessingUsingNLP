@@ -1,2 +1,2 @@
 # DataPreProcessingUsingNLP
-This repository includes all the preprocessing we need to perform though different nlp liabraries
+This repository includes all the data preprocessing we need to perform though different nlp liabraries
